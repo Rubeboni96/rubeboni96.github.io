@@ -1,0 +1,248 @@
+.inicio .contenido-seccion header nav{  
+    position: top;
+    margin-left: 60px;
+    background-color: #940253;
+    padding: 15px;
+    border-radius: 10px;
+    text-align: left;
+    z-index: 99;
+    display:contents;
+}
+.inicio .contenido-seccion header nav a{
+    display: block;
+    color: rgb(129, 0, 0);
+    text-decoration<     uh ;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background: #f6f8ff;
+}
+
+.name {
+    width: 100%;
+    height: 300px;
+    background: #00e0a5;
+}
+.name .img {
+    position: absolute;
+    top: 6%;
+    right: 5%;
+    width: 180px;
+    height: 180px;
+    border-radius: 100%;
+}
+.name .img img {
+    width: 200px;   
+    height: 200px;
+}
+.name .content{
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    left: 25%;
+}
+.name .content .p1{
+    color: black;
+    font-family: 'PT Serif', serif;
+    font-weight: bolder;
+    font-size: 60px;
+    margin-bottom: 0;
+
+}
+.name .content .p2{
+    color: black;
+    font-family: 'PT Serif', serif; 
+    font-size: 45px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.contenido-seccion {
+    width: 90%;
+    height: auto;
+    background: #a5f8d3;
+    margin:5% auto;
+    padding: 15px;
+}
+.info{
+    width: 90%;
+    height: auto;
+    background: #a5f8d3;
+    margin:5% auto;
+    padding: 15px;
+}
+.info .tituloseccion{
+    color: black;
+    font-family: 'PT Serif', serif;
+    font-weight: bolder;
+    text-align: center;
+    border-bottom: black solid;
+    font-size: 25px;
+}
+.info .tituloinfo{   
+    color: black;
+    font-family: 'PT Serif', serif;
+    font-weight: bolder;
+    text-align: left;
+    display: inline;
+    margin-right: 10px;
+}
+.info .infoinfo{   
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    display: inline;
+}
+.info .tituloinfo{   
+    color: black;
+    font-family: 'PT Serif', serif;
+    font-weight: bolder;
+    text-align: left;
+    display: inline;
+    margin-right: 10px;
+}
+.info .infoinfo{   
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    display: inline;
+}
+.edu {
+    width: 90%;
+    height: auto;
+    background: #a5f8d3;
+    margin:5% auto;
+    padding: 15px;
+}
+.edu .tituloseccion{
+    color: black;
+    font-family: 'PT Serif', serif;
+    font-weight: bolder;
+    text-align: center;
+    border-bottom: black solid;
+    font-size: 25px;
+}
+.edu .tituloinfo{   
+    color: black;
+    font-family: 'PT Serif', serif;
+    font-weight: bolder;
+    text-align: left;
+    display: inline;
+    margin-right: 10px;
+}
+.edu .infoinfo{   
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    display: inline;
+}
+
+.exp {
+    width: 90%;
+    height: auto;
+    background: #a5f8d3;
+    margin:5% auto;
+    padding: 15px;
+}
+.exp .tituloseccion{
+    color: black;
+    font-family: 'PT Serif', serif;
+    font-weight: bolder;
+    text-align: center;
+    border-bottom: black solid;
+    font-size: 25px;
+}
+.exp .tituloinfo{   
+    color: black;
+    font-family: 'PT Serif', serif;
+    font-weight: bolder;
+    text-align: left;
+    display: inline;
+    margin-right: 10px;
+}
+.exp .infoinfo{   
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    display: inline;
+}
+.idiomas {
+    width: 90%;
+    height: auto;
+    background: #a5f8d3;
+    margin:5% auto;
+    padding: 15px;
+}
+.idiomas .tituloseccion{
+    color: black;
+    font-family: 'PT Serif', serif;
+    font-weight: bolder;
+    text-align: center;
+    border-bottom: black solid;
+    font-size: 25px;
+}
+.idiomas .tituloinfo{   
+    color: black;
+    font-family: 'PT Serif', serif;
+    font-weight: bolder;
+    text-align: left;
+    display: inline;
+    margin-right: 10px;
+}
+.idiomas .infoinfo{   
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    display: inline;
+}
+.idiomas span {
+    display: inline-block;
+    width: auto;
+    height: auto;
+    padding-left: 1%;
+    padding-right: 1%;
+    background: #894242;
+    color: rgb(255, 255, 255);
+    font-family: 'PT Serif', serif;
+}
+.skills {
+    width: 90%;
+    height: auto;
+    background: #a5f8d3;
+    margin:5% auto;
+    padding: 15px;
+}
+.skills .tituloseccion{
+    color: black;
+    font-family: 'PT Serif', serif;
+    font-weight: bolder;
+    text-align: center;
+    border-bottom: black solid;
+    font-size: 25px;
+}
+.skills .tituloinfo{   
+    color: black;
+    font-family: 'PT Serif', serif;
+    font-weight: bolder;
+    text-align: left;
+    display: inline;
+    margin-right: 10px;
+}
+.skills .infoinfo{   
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    display: inline;
+}
+.skills span {
+    display: inline-block;
+    width: auto;
+    height: auto;
+    padding-left: 1%;
+    padding-right: 1%;
+    background: #894242;
+    color: rgb(255, 255, 255);
+    font-family: 'PT Serif', serif;
+}
